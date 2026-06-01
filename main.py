@@ -7,7 +7,7 @@ import urllib.parse
 
 # 1. CẤU HÌNH BOT TELEGRAM
 # Thay mã Token mới tinh của con bot dịch thuật vào đây bạn nhé:
-BOT_TOKEN = 'ĐIỀN_TOKEN_MỚI_CỦA_BẠN_VÀO_ĐÂY'
+BOT_TOKEN = '8842167497:AAH4PEOPovzy7_hT83DxpWbKHP7TgT0H0NY'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 app = Flask('')
